@@ -1,0 +1,4 @@
+Örnek: 396,602
+IMU sütun: 24
+Kişi: 20
+Eksik: 0

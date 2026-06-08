@@ -1,0 +1,16 @@
+{
+  "n_samples": 396602,
+  "n_features_IMU": 24,
+  "n_estimators": 120,
+  "protocol": "StratifiedKFold_5_shuffle_RS42",
+  "RF_oob_accuracy": 0.9820222792623335,
+  "RF_oob_macro_f1": 0.9820006096419917,
+  "top5_features": [
+    "motionYaw",
+    "magnetometerZ",
+    "magnetometerY",
+    "motionMagneticFieldZ",
+    "magnetometerX"
+  ],
+  "runtime_sec": 146.3
+}

@@ -1,0 +1,2 @@
+Model,Protokol,accuracy,macro_f1,weighted_f1,macro_precision,macro_recall
+Rastgele Orman,StratifiedKFold_5,0.9820222792623335,0.9820006096419917,0.9820345293427233,0.982024821872745,0.9819843984734433
